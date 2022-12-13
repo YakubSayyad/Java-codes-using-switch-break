@@ -1,6 +1,6 @@
 class Day {
     public static void main(String[] args) {
-        int day = 10;
+        int day = 5;
         switch (day) {
             case 1:
                 System.out.println("Monday");
@@ -28,3 +28,7 @@ class Day {
         }
     }
 }
+
+
+Output:-
+    Friday
